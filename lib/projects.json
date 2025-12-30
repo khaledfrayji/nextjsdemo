@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Project Alpha",
+    "description": "An innovative platform for collaborative work.",
+    "developerId": 1,
+    "techStack": ["React", "Node.js", "GraphQL"]
+  },
+  {
+    "id": 2,
+    "name": "Beta Build",
+    "description": "A mobile app for personal finance management.",
+    "developerId": 1,
+    "techStack": ["Flutter", "Firebase"]
+  },
+  {
+    "id": 3,
+    "name": "Gamma Finance",
+    "description": "A financial dashboard for tracking expenses and investments.",
+    "developerId": 2,
+    "techStack": ["Flutter", "Firebase"]
+  },
+  {
+    "id": 4,
+    "name": "Gamma Analytics",
+    "description": "A data analytics tool for business intelligence.",
+    "developerId": 3,
+    "techStack": ["Python", "Django", "PostgreSQL"]
+  }
+]

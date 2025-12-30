@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "role": "admin",
+    "bio": "Loves programming and open-source."
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "role": "developer",
+    "bio": "Enjoys working with Node.js and databases"
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "role": "designer",
+    "bio": "Passionate about user experience and visual design."
+  }
+]
